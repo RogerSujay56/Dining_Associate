@@ -1,0 +1,7 @@
+openai
+streamlit
+flask
+pymysql
+python-dotenv
+
+
